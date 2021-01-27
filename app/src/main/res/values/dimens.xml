@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="star_size_land">40dp</dimen>
+    <dimen name="size_play_icon">60dp</dimen>
+</resources>
